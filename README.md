@@ -23,23 +23,6 @@ The project implements various algorithms and methods for:
 - **`plot_re_w.m`** - Plotting functions for real parts of oscillator states
 - **`sample.m`** - Sample code and examples
 
-### Data Files
-
-- **`C3_upo.mat`** - Pre-computed UPO data for 3x3 oscillator network
-- **`C2_refined_upo.mat`** - Refined UPO data for 2x2 oscillator network
-- **`stabilized_upo.mat`** - Stabilized UPO states (large file: 187MB)
-- **`upo_t=46.mat`** - UPO data at specific time point
-- **`refined_upo_state.mat`** - Refined UPO state data
-- **`upo_states.mat`** - UPO state information
-
-### Visualization Files
-
-- **`stabilized_upo.png`** - Visualization of stabilized UPO
-- **`stabilized_upo_ps.png`** - Phase space visualization
-- **`md_plus.png`** - Plus pattern visualization
-- **`md_cross.png`** - Cross pattern visualization
-- **`untitled1.png`** - Additional visualization
-
 ### Documentation
 
 - **`Comp_with_chaos.pdf`** - Main project documentation
